@@ -8,6 +8,7 @@
 
 ### Education & Work
 
+<p>:briefcase: Software Engineer at Itaú Unibanco</p>
 <p>:mortar_board: Esp. in Software Engineering at <strong>Universidade Paulista</strong></p>
 <p>:mortar_board: B.S. in Computer Science at <strong>Universidade Paulista</strong></p>
 
