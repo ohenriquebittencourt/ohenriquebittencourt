@@ -16,21 +16,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/></a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dotnet-1175177.png" alt="dotnet" width="40" height="40"/></a><img src="https://img.icons8.com/color/42/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/42/00000/angularjs.png"/><img src="https://img.icons8.com/color/42/00000/javascript--v1.png"/><img src="https://img.icons8.com/color/42/00000/typescript.png"/><img src="https://img.icons8.com/color/42/00000/python--v1.png"/><img src="https://img.icons8.com/fluency/42/00000/docker.png"/><img src="https://img.icons8.com/color/42/00000/kubernetes.png"/><img src="https://img.icons8.com/color/42/00000/git.png"/><img src="https://img.icons8.com/color/42/00000/gitlab.png"/><img src="https://img.icons8.com/color/42/00000/terraform.png"/><img src="https://img.icons8.com/color/42/00000/amazon-web-services.png"/><img src="https://img.icons8.com/color/42/00000/microsoft-sql-server.png"/><img src="https://img.icons8.com/color/42/00000/mysql-logo.png"/><img src="https://img.icons8.com/fluency/42/00000/visual-studio.png"/><img src="https://img.icons8.com/color/42/00000/visual-studio-code-2019.png"/>
 
 ### Contact me
- <a href="https://www.linkedin.com/in/henriquebs98/"><img src="https://img.shields.io/badge/-henriquebs98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquebs98/" /></a> <a href="mailto:henriquebs98@gmail.com"><img src="https://img.shields.io/badge/-henriquebs98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquebs98@gmail.com" /></a>
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ralmsdeveloper/)](https://www.linkedin.com/in/ralmsdeveloper/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ralmsdeveloper)](https://twitter.com/ralmsdeveloper)
-[![Gmail Badge](https://img.shields.io/badge/-ralms@ralms.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralms@ralms.net)](mailto:ralms@ralms.net) 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579988293815)](https://api.whatsapp.com/send?phone=+5579988293815)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ralmsdeveloper/)](https://www.instagram.com/ralmsdeveloper/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ralmsdeveloper/)](https://www.linkedin.com/in/ralmsdeveloper/)
+[![Gmail Badge](https://img.shields.io/badge/-henriquebs98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquebs98@gmail.com)](mailto:henriquebs98@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ohenriquebittencourt/)](https://www.instagram.com/ohenriquebittencourt/)
 
-<p align="center">
-  
-  <a href="https://github.com/ohenriquebittencourt/github-stats">
-    <img  alt="Henrique Bittencourt - GitHub Stats" width="400px" src="https://github.com/ohenriquebittencourt/github-stats/blob/master/generated/overview.svg" />
-  </a> 
-
-   <a href="https://github.com/ohenriquebittencourt/github-stats">
-    <img  alt="Henrique Bittencourt - GitHub Stats" width="400px" src="https://github.com/ohenriquebittencourt/github-stats/blob/master/generated/languages.svg" />
-  </a> 
-</p>
