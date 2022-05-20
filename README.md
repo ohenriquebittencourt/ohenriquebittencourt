@@ -13,9 +13,7 @@
 <p>:mortar_board: B.S. in Computer Science at <strong>Universidade Paulista</strong></p>
 
 ### Technologies
-<img src="https://img.icons8.com/color/42/000000/c-sharp-logo.png"/>
-
-<img src="https://img.icons8.com/color/42/00000/angularjs.png"/><img src="https://img.icons8.com/color/42/00000/javascript--v1.png"/><img src="https://img.icons8.com/color/42/00000/typescript.png"/><img src="https://img.icons8.com/fluency/42/00000/docker.png"/><img src="https://img.icons8.com/color/42/00000/kubernetes.png"/><img src="https://img.icons8.com/color/42/00000/git.png"/><img src="https://img.icons8.com/color/42/00000/gitlab.png"/><img src="https://img.icons8.com/color/42/00000/terraform.png"/>
+<img src="https://img.icons8.com/color/42/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/42/00000/angularjs.png"/><img src="https://img.icons8.com/color/42/00000/javascript--v1.png"/><img src="https://img.icons8.com/color/42/00000/typescript.png"/><img src="https://img.icons8.com/fluency/42/00000/docker.png"/><img src="https://img.icons8.com/color/42/00000/kubernetes.png"/><img src="https://img.icons8.com/color/42/00000/git.png"/><img src="https://img.icons8.com/color/42/00000/gitlab.png"/><img src="https://img.icons8.com/color/42/00000/terraform.png"/>
 <img src="https://img.icons8.com/color/42/00000/amazon-web-services.png"/><img src="https://img.icons8.com/color/42/00000/microsoft-sql-server.png"/><img src="https://img.icons8.com/color/42/00000/mysql-logo.png"/><img src="https://img.icons8.com/fluency/42/00000/visual-studio.png"/><img src="https://img.icons8.com/color/42/00000/visual-studio-code-2019.png"/>
 
 ### Contact me
