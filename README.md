@@ -13,7 +13,7 @@
 <p>:mortar_board: B.S. in Computer Science at <strong>Universidade Paulista</strong></p>
 
 ### Technologies
-<img src="https://img.icons8.com/color/42/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/fluency/42/000000/arduino.png"/><img src="https://img.icons8.com/color/42/000000/raspberry-pi.png"/>
+<img src="https://img.icons8.com/color/2x/c-sharp-logo.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/fluency/42/000000/arduino.png"/><img src="https://img.icons8.com/color/42/000000/raspberry-pi.png"/>
 
 ### Contact me
  <a href="https://www.linkedin.com/in/henriquebs98/"><img src="https://img.shields.io/badge/-henriquebs98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulia-piombo/" /></a> <a href="mailto:henriquebs98@gmail.com"><img src="https://img.shields.io/badge/-henriquebs98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquebs98@gmail.com" /></a>
