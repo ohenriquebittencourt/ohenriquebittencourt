@@ -1,8 +1,15 @@
-## Hi there, I'm Henrique!
+<h3 align="center">Hello! Thank you for checking my GitHub profile! 👋</h1>
+<p align="center">Currently working as: Software Engineer at Itaú Unibanco <a href="https://www.itau.com.br/" target="_blank" rel="noreferrer">  <img src="https://logodownload.org/wp-content/uploads/2014/05/itau-logo-1.png" alt="Itaú Unibanco" width="20" height="20"/> </a> </p>
 
+<p align="center">
+    Connect with me:&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ohenriquebittencourt/" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> &nbsp;
+    <a href="mailto: henriquebs98+contato@outlook.com" target="_blank" rel="noreferrer">  <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="e-mail" width="20" height="20"/> </a>
+</p>
+<br>
 
 ### About myself
-<p>:globe_with_meridians: I'm a Software Engineer. I currently work at Itaú Unibanco and am part of a multidisciplinary team that delivers software solutions for risk management and pricing. I develop systems to meet the needs of users and national and international regulatory bodies using different technologies.</p>
+<p>:globe_with_meridians: I'm Henrique Bittencourt and am part of a multidisciplinary team that delivers software solutions for risk management and pricing. I develop systems to meet the needs of users and national and international regulatory bodies using different technologies.</p>
 
 <p>:brazil: From São Paulo, SP.</p>
 
